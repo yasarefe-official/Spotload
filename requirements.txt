@@ -1,2 +1,0 @@
-spotdl
-python-telegram-bot
